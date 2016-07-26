@@ -8,7 +8,7 @@ WITH replication = { 'class' : 'NetworkTopologyStrategy', 'DC1' : 1};
 -- product_id: B0009IB8RC
 -- brand: null
 -- title: Plantronics Headband with Tripod for CS50
--- price: 9.73
+-- price: 9.730
 
 CREATE TABLE IF NOT EXISTS retail.suppliers (
    supplier_id int,
